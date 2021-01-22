@@ -1,1 +1,2 @@
-"# hybridCoeLTSM"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ass77/hybridCoeLTSM.gitgit push -u origin main
+# hCoeLTSM
+###Framework: Keras
